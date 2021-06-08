@@ -1,10 +1,9 @@
 # goit-node-CLI
 
 # Посилання на зображення
-https://ibb.co/X3ZjYwF
-https://ibb.co/MDkFx2x
-https://ibb.co/q0wvwjy
-https://ibb.co/jgcrFz9
+https://ibb.co/VQ4nxWG
+https://ibb.co/0YcT5Hg
+https://ibb.co/DVDSwrm
 
 
 # Ввод
